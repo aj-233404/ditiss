@@ -1,0 +1,3 @@
+echo " by komal"
+
+whoami
